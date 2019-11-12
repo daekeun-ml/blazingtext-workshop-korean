@@ -5,7 +5,11 @@
 본 Hands-on에서는 SageMaker에서 생성한 Endpoint inference service를 웹 상에서 호출하기 위해 AWS Lambda와 AWS API Gateway를 Figure 4과 같은 데모를 만들어 보겠습니다.
 
 ![img-architecture](./images/module4_architecture.png)
+<<<<<<< HEAD
 **<center>Figure. SageMaker App Data Flow.</center>**    
+=======
+**<center>SageMaker App Data Flow.</center>**
+>>>>>>> 44e2dd457a60771bb4cd54c6d20b82d40743bb74
 
 ## Lambda 함수 개발
 ----
