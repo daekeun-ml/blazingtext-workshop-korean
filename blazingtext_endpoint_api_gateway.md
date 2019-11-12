@@ -2,7 +2,7 @@
 
 이 모듈에서는 SageMaker Endpoint로 호스팅된 모델을 인터넷을 통해 활용할 수 있는 방법에 대해 실습해 보겠습니다.
 
-본 Hands-on에서는 SageMaker에서 생성한 Endpoint inference service를 웹 상에서 호출하기 위해 AWS Lambda와 AWS API Gateway를 Figure 4과 같은 데모를 만들어 보겠습니다.
+본 Hands-on에서는 SageMaker에서 생성한 Endpoint inference service를 웹 상에서 호출하기 위해 AWS Lambda와 AWS API Gateway를 아래 Figure와 같은 데모를 만들어 보겠습니다.
 
 ![img-architecture](./images/module4_architecture.png)
 
